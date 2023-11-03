@@ -5,8 +5,8 @@ Fork from [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToR
 
 Tutorial on how this bounce effect was achieved can be found [here](https://medium.com/@gontovnik/elastic-view-animation-or-how-i-built-dgelasticpulltorefresh-269a3ba8636e#.9dioekqv6).
 
-![](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif)
-![](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview2.gif)
+![](https://raw.githubusercontent.com/NewBieQing/NBQElasticPullToRefresh/master/NBQElasticPullToRefreshPreview1.gif)
+![](https://raw.githubusercontent.com/NewBieQing/NBQElasticPullToRefresh/master/NBQElasticPullToRefreshPreview2.gif)
 
 ## Requirements
 * Xcode 11 or higher
